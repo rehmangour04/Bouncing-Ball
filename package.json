@@ -1,0 +1,23 @@
+{
+  "name": "bouncing-balls",
+  "description": "Simple bouncing balls physics using plain JavaScript.",
+  "keywords": [
+    "bouncing-balls",
+    "physics-simulation",
+    "javascript",
+    "game-development",
+    "canvas"
+  ],
+  "author": "Ataur Rehman <rehmangour04@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  },
+  "license": "MIT"
+}
